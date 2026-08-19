@@ -110,9 +110,3 @@ Testing documentation:
 `test-cases.md`
 
 ---
-
-## 12. Documentation
-
-The complete project report is available in:
-
-`report.pdf`
